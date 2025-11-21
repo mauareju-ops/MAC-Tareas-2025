@@ -8,10 +8,8 @@ int main() {
 	cin>>usri;
 	while(i<=usri){
 		numsqrt+=i*i;
-		if(i!=usri){cout<<i<<"^2"<<" + ";
-		 
-		}else cout<<"\nResultado: "<<numsqrt;
+		cout<<i<<"^2"<<" + ";
 		i++;
 }
-
+cout<<"\nResultado: "<<numsqrt;
 }
