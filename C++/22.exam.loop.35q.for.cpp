@@ -22,6 +22,5 @@ int main () {
                 cout<<"\n";
 		
 }
-cout<<usri<<"\n"<<row<<"\n"<<spa<<"\n";
 
 }
